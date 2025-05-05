@@ -1,0 +1,58 @@
+   NOTES
+
+
+Prefix Sum
+Two pointers 
+Fast and Sloe Pointers
+Sliding Window
+Monotonic Stack
+Linked List in Place reversal 
+MOdified Binary Search 
+Backtracking/Subset Generation 
+Top K elements Patterns 
+Divide and conquer(sort merge sort kadane’s algorithm)
+Greedy Algo 
+Bit Manipulation 
+Matrix Traversal 
+Overlapping Intervals 
+Tree based Algo
+Binary Tree Traversal (In order Pre post order types avl.bst,heap
+Binary Tree (dfs and bfs)
+Segment Trees /Fenwick Tree
+Tries
+         Graph Algo
+DFS,BFS,Topological Sort
+Dijkashtras (Bellman’ ford, floyd warshall, tarjan’s Primms krushaks Union find 
+Dynamic Programming 
+1d knapsack Longest Increasing subsequent Subset SUm 
+2d dynamic Programming FIbi=onacci numbers longest common susquences matrix chain multiplication 
+
+
+#INPUT & OUTPUT
+
+Class Main{
+Public static void main(string args[]){
+System.out.print(“Hello”);
+}
+}
+Here the Main- Main can be called as the starting point 
+Public static void main -here void is used because it is empty doesnt have or return any value 
+Static because- we cannot call a method without an object so static is an object and to be there in the whole problem it is declared as public 
+System.out.print- out is the object and system contains all of these
+
+Class Main{
+Public static void main(string arg[]){
+Scanner sc =new Scanner(system.in) by using the bold one it is stored in the heap memory otherwise it will be there in the stack memory 
+
+
+Method type method name(Parameters){declaration 
+Definition
+} // should be out of main class 
+Calling should be inside main class 
+Scanner is a class starting with capital letter  
+
+}
+
+
+ 
+
